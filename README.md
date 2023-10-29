@@ -1,6 +1,6 @@
 ### Projekt-IMG-lib
 
-## About `projekt-IMG-lib`
+## About `projekt-img-lib`
 
 `projekt-IMG-lib` is a comprehensive and efficient IMG manipulation library designed to offer a wide range of IMG-related functionalities. Our library is built from scratch to ensure top performance and minimal dependencies, aiming to provide a seamless experience for developers and users alike.
 
